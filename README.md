@@ -71,11 +71,11 @@ Final list: [10, 15, 20, 30, 40, 50, 60]
 
 ## Author
 
-[Your Name]
+Obinna Akaolisa
 
 ## Course
 
-Intro to Python - Week 2 Assignment
+Intro to Python - Week 2 Assignment (Power Learn Project)
 
 ## License
 
